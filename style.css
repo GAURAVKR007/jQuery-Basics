@@ -1,0 +1,16 @@
+.big-title{
+    color: rgb(10, 150, 89);
+    font-family: cursive;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.margin-50{
+    margin: 50px;
+}
+
+.searchEngine{
+    font-size: 2rem;
+    color: rgb(230, 75, 24);
+    text-decoration: none;
+}
