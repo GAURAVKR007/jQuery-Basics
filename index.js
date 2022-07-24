@@ -33,3 +33,22 @@ $("button.btn-cls").on("click",function(){     // On is An eventlistener method 
 });
 
 
+// To remove elements from web pages 
+
+// $("tag-select").remove();
+
+// Website Animation with jQuery
+
+// $("button").on("click",function(){
+//     $("h1").hide();
+//     $("h1").show();
+//     $("h1").toggle();
+//     $("h1").fadeout();
+//     $("h1").fadein();
+//     $("h1").slideup();
+//     $("h1").slidedown();
+//     $("h1").slidetoggle();
+// });
+
+
+
