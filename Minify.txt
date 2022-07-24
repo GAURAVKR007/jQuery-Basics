@@ -1,0 +1,8 @@
+
+You can minify your code on the website ->   https://www.minifier.org/
+
+by doing this your js or css code will take less space 
+and load up quickly in your user browser.
+
+since the browser doesn't care about the space and new lines 
+it's unnecessary to ask from browser to give space for those things.
